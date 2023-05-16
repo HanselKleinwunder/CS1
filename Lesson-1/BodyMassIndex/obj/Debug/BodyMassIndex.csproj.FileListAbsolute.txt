@@ -1,0 +1,8 @@
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\BodyMassIndex\bin\Debug\BodyMassIndex.exe.config
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\BodyMassIndex\bin\Debug\BodyMassIndex.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\BodyMassIndex\bin\Debug\BodyMassIndex.pdb
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.AssemblyReference.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.SuggestedBindingRedirects.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.CoreCompileInputs.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\BodyMassIndex\obj\Debug\BodyMassIndex.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\BodyMassIndex\obj\Debug\BodyMassIndex.pdb

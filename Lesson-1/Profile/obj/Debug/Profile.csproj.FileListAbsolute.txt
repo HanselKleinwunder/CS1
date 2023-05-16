@@ -1,0 +1,8 @@
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\Profile\bin\Debug\Profile.exe.config
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\Profile\bin\Debug\Profile.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\Profile\bin\Debug\Profile.pdb
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\Profile\obj\Debug\Profile.csproj.AssemblyReference.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\Profile\obj\Debug\Profile.csproj.SuggestedBindingRedirects.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\Profile\obj\Debug\Profile.csproj.CoreCompileInputs.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\Profile\obj\Debug\Profile.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-1\Profile\obj\Debug\Profile.pdb
