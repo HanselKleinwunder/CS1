@@ -1,0 +1,8 @@
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfCharsInNumber\bin\Debug\AmountOfCharsInNumber.exe.config
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfCharsInNumber\bin\Debug\AmountOfCharsInNumber.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfCharsInNumber\bin\Debug\AmountOfCharsInNumber.pdb
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfCharsInNumber\obj\Debug\AmountOfCharsInNumber.csproj.AssemblyReference.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfCharsInNumber\obj\Debug\AmountOfCharsInNumber.csproj.SuggestedBindingRedirects.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfCharsInNumber\obj\Debug\AmountOfCharsInNumber.csproj.CoreCompileInputs.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfCharsInNumber\obj\Debug\AmountOfCharsInNumber.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfCharsInNumber\obj\Debug\AmountOfCharsInNumber.pdb

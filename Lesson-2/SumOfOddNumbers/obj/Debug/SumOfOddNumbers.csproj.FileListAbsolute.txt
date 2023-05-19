@@ -1,0 +1,8 @@
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe.config
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.pdb
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.csproj.AssemblyReference.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.csproj.SuggestedBindingRedirects.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.pdb

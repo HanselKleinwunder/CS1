@@ -1,0 +1,8 @@
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\MinOfThreeNumbers\bin\Debug\MinOfThreeNumbers.exe.config
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\MinOfThreeNumbers\bin\Debug\MinOfThreeNumbers.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\MinOfThreeNumbers\bin\Debug\MinOfThreeNumbers.pdb
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\MinOfThreeNumbers\obj\Debug\MinOfThreeNumbers.csproj.AssemblyReference.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\MinOfThreeNumbers\obj\Debug\MinOfThreeNumbers.csproj.SuggestedBindingRedirects.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\MinOfThreeNumbers\obj\Debug\MinOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\MinOfThreeNumbers\obj\Debug\MinOfThreeNumbers.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\MinOfThreeNumbers\obj\Debug\MinOfThreeNumbers.pdb

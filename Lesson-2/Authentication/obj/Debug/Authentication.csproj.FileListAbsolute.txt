@@ -1,0 +1,8 @@
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Authentication\bin\Debug\Authentication.exe.config
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Authentication\bin\Debug\Authentication.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Authentication\bin\Debug\Authentication.pdb
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Authentication\obj\Debug\Authentication.csproj.AssemblyReference.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Authentication\obj\Debug\Authentication.csproj.SuggestedBindingRedirects.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Authentication\obj\Debug\Authentication.csproj.CoreCompileInputs.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Authentication\obj\Debug\Authentication.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Authentication\obj\Debug\Authentication.pdb
