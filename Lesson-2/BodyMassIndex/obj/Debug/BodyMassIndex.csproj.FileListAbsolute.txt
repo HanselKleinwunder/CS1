@@ -1,0 +1,8 @@
+E:\Lernen\Documents\IT\Repositories\CS1\Lesson-2\BodyMassIndex\bin\Debug\BodyMassIndex.exe.config
+E:\Lernen\Documents\IT\Repositories\CS1\Lesson-2\BodyMassIndex\bin\Debug\BodyMassIndex.exe
+E:\Lernen\Documents\IT\Repositories\CS1\Lesson-2\BodyMassIndex\bin\Debug\BodyMassIndex.pdb
+E:\Lernen\Documents\IT\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.AssemblyReference.cache
+E:\Lernen\Documents\IT\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.SuggestedBindingRedirects.cache
+E:\Lernen\Documents\IT\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.CoreCompileInputs.cache
+E:\Lernen\Documents\IT\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.exe
+E:\Lernen\Documents\IT\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.pdb
