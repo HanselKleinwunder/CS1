@@ -6,3 +6,11 @@ E:\Lernen\Documents\IT\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMas
 E:\Lernen\Documents\IT\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.CoreCompileInputs.cache
 E:\Lernen\Documents\IT\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.exe
 E:\Lernen\Documents\IT\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.pdb
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\BodyMassIndex\bin\Debug\BodyMassIndex.exe.config
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\BodyMassIndex\bin\Debug\BodyMassIndex.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\BodyMassIndex\bin\Debug\BodyMassIndex.pdb
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.AssemblyReference.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.SuggestedBindingRedirects.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.CoreCompileInputs.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\BodyMassIndex\obj\Debug\BodyMassIndex.pdb
