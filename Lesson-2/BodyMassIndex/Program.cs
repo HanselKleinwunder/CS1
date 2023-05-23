@@ -26,20 +26,20 @@ namespace BodyMassIndex
                 result = string.Format("выраженный дефицит массы тела! " +
                     "Необходимо набрать {0:F1} кг.", norm);
             }
-            else if (BMI >= 16 && BMI < 18.5)
+            else if (BMI >= 16 && BMI < 18.4)
             {
                 double norm = (18.5 - BMI) * (height * height);
                 result = string.Format("недостаточная масса тела! " +
                     "Необходимо набрать {0:F1} кг.", norm);
             }
-            else if(BMI >= 18.5 && BMI < 24.9)
+            else if(BMI >= 18.4 && BMI < 24.9)
             {
                 result = "норма!";
             }
             else if (BMI >= 25 && BMI < 30)
             {
-                double norm = (30 - BMI) * (height * height);
-                result = string.Format("избыточная тела! " +
+                double norm = (BMI - 25) * (height * height);
+                result = string.Format("избыточная масса тела! " +
                     "Необходимо сбросить {0:F1} кг.", norm);
             }
             else if (BMI >= 30 && BMI < 35)
@@ -50,7 +50,7 @@ namespace BodyMassIndex
             }
             else if (BMI >= 35 && BMI < 40)
             {
-                double norm = (40 - BMI) * (height * height);
+                double norm = (35 - BMI) * (height * height);
                 result = string.Format("ожирение второй степени! " +
                     "Необходимо сбросить {0:F1} кг.", norm);
             }
