@@ -1,0 +1,8 @@
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfGoodNumbers\obj\Debug\AmountOfGoodNumbers.csproj.AssemblyReference.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfGoodNumbers\obj\Debug\AmountOfGoodNumbers.csproj.SuggestedBindingRedirects.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfGoodNumbers\obj\Debug\AmountOfGoodNumbers.csproj.CoreCompileInputs.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfGoodNumbers\bin\Debug\AmountOfGoodNumbers.exe.config
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfGoodNumbers\bin\Debug\AmountOfGoodNumbers.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfGoodNumbers\bin\Debug\AmountOfGoodNumbers.pdb
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfGoodNumbers\obj\Debug\AmountOfGoodNumbers.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\AmountOfGoodNumbers\obj\Debug\AmountOfGoodNumbers.pdb
