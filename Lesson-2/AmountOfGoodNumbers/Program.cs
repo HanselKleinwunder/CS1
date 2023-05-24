@@ -20,7 +20,7 @@ namespace AmountOfGoodNumbers
             int sum = 0;
             string n = number.ToString();
 
-            for (int i = 1; i < n.Length; i++)
+            for (int i = 0; i < n.Length; i++)
             {
                 sum += n[i] - '0';
             }
@@ -37,9 +37,25 @@ namespace AmountOfGoodNumbers
 
         static void Main(string[] args)
         {
-            int number = 1000000000;
+            DateTime dateTime = DateTime.Now;
+            int count = 0, number;
 
-            Console.WriteLine("Количество хороших чисел: {0}", goodNumbers(number));
+            Console.Write("Вас привествует программа подсчёта количества хороших чисел.\n" +
+                "Минимальное число диапазона 1, максимальное 1 000 000 000\n" +
+                "Введите последнее число диапазона: ");
+            number = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i < number; i++)
+            {
+                if (goodNumbers(i))
+                {
+                    count++;
+                }
+            }
+
+            Console.WriteLine("Количество „хороших“ чисел в диапазоне от 1 до {0}: {1}", number, count);
+            Console.WriteLine("Время, затраченное на выполнение данной операции: {0}", DateTime.Now - dateTime);
+            Console.ReadLine();
         }
     }
 }
