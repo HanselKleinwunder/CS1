@@ -1,0 +1,8 @@
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Recursion\bin\Debug\Recursion.exe.config
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Recursion\bin\Debug\Recursion.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Recursion\bin\Debug\Recursion.pdb
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Recursion\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Recursion\obj\Debug\Recursion.exe
+D:\Documents\IT\Git\Repositories\CS1\Lesson-2\Recursion\obj\Debug\Recursion.pdb
